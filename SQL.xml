@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<root>
+    <SQLconnection>
+        <JDBC>
+            <url>jdbc:mysql://localhost:3306/customermanager</url>
+            <driver>com.mysql.jdbc.Driver</driver>
+            <user>root</user>
+            <password></password>
+        </JDBC>
+    </SQLconnection>
+        
+</root>
